@@ -1,8 +1,10 @@
 ### <p align="right"> Hello folks, I'm Hems! <img src="https://github.com/viksa7111/VikasPanwar/blob/b55dd90d88388a938eeb2945ac814e8721087dfe/wave.gif" width="30px"> </p>
 
-##  FrontEnd Website Developer! 🧑‍💻  
+##  FrontEnd Website  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Developer! 🧑‍💻  
 
-  <p align="left"> <img src=https://komarev.com/ghpvc/?username=hemsdarji alt=hemsdarji /> </p>
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsubhajit98&label=Profile%20views&color=0e75b6&style=flat" alt="imsubhajit98" /> </p>
+
   
 Hi, My name is hems darji and I'm from India. I'm A Self taught Web Developer 🚀 and javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
 Besides scripting, I like to hangout with friends 🛣️🏞️🌉
