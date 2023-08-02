@@ -9,7 +9,7 @@
 Hi, My name is hems darji and I'm from India. I'm A Self taught Web Developer 🚀 and javaScript Enthusiast, Who loves building blocks in JavaScript 🧑‍💻📜 
 Besides scripting, I like to hangout with friends 🛣️🏞️🌉
 
-<img align="right" width="350" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966">
 
 - 🔭 I’m Currently Working on : ReactJS with Redux Toolkit & Material UI. 
 - 💻 Exploring various libraries using React!!
